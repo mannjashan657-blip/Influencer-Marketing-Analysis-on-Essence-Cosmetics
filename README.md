@@ -1,13 +1,7 @@
 
 💄 Essence Cosmetics — Influencer Marketing Performance Dashboard
 
-An interactive Business Intelligence dashboard analyzing influencer marketing ROI for **Essence Cosmetics**, built to identify which creators drive the strongest revenue, profit, and engagement returns.
-
----
-
-## 📊 Dashboard Preview
-
-![Essence Cosmetics Dashboard](assets/dashboard-overview.png)
+An interactive Business Intelligence dashboard analyzing influencer marketing ROI for **Essence Cosmetics**, built to identify which creators drive the strongest revenue, profit, and engagement return)
 
 ---
 
